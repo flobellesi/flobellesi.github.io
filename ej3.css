@@ -1,0 +1,19 @@
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: hotpink;
+}
+a:active{
+    color: blue;
+}
+body{
+    background-color: rgb(116, 240, 240);
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+
+}

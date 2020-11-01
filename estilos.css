@@ -1,0 +1,20 @@
+h1 {
+    font-size: 30px;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    h2 {
+        font-size: 20px;
+        color: red;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    p{
+    font-size: 15px;
+    text-align: justify;
+    }
+
+    body{
+        background-color: rgb(250, 242, 175);
+    }
