@@ -1,17 +1,18 @@
 h1 {
     font-size: 30px;
-    color: blue;
+    color: darkorange;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     
     h2 {
         font-size: 20px;
-        color: red;
+        color: rgb(132, 236, 118);
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align-last: center;
     }
     
     p{
-    color: cornflowerblue;
+    color: rgb(248, 252, 41);
     font-size: 15px;
     text-align: justify;
     }
