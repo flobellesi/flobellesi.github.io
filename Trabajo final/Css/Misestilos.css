@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(250, 252, 150);    
+    color: rgb(250, 162, 162);
+}
+h1{
+    font-style: normal;
+    color: rgb(204, 100, 204);
+    text-align: left;
+}
+
+h4{
+    font-style: normal;
+    color: rgb(204, 100, 204);
+    text-align: justify;
+
+}
+
+p{
+    color: rgb(250, 162, 162);
+    text-align: center; 
+    font-style: normal; 
+ }
+
+ h5{
+    color: rgb(250, 162, 162);
+    text-align: center; 
+    font-style: normal; 
+ }
+.imgRedonda {
+    width:298px;
+    height:298px;
+    border-radius:149px;}
